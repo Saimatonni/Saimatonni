@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Saima Akter</h1>
-<h3 align="center">A CSE Undergraduate Student || Android Developer || Web Developer</h3>
+<h3 align="center">CSE Undergraduate Student at University of Dhaka || Android Developer || Web Developer</h3>
 
 - 📫 How to reach me **saimaakter4046@gmail.com**
 
