@@ -1,5 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Saima Akter</h1>
 <h3 align="center">CSE Undergraduate Student at University of Dhaka || Android Developer || Web Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saimatonni&label=Profile%20views&color=0e75b6&style=flat" alt="saimatonni" /> </p>
 
 - 📫 How to reach me **saimaakter4046@gmail.com**
 
