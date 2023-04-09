@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergraduate Student at University of Dhaka || Android Developer || Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimatonni&label=Profile%20views&color=0e75b6&style=flat" alt="saimatonni" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimatonni" alt="saimatonni" /></a> </p>
+
 
 
 - 📫 How to reach me **saimaakter4046@gmail.com**
@@ -21,6 +21,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimatonni&theme=dark&show_icons=true&locale=en&layout=compact" alt="saimatonni" /></p><p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=saimatonni&theme=dark&show_icons=true&locale=en" alt="saimatonni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimatonni&theme=dark" alt="saimatonni" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimatonni&theme=dark" alt="saimatonni" /></a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/saimaakter"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/saimaakter" /></a></p><br><br>
