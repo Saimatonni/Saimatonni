@@ -27,10 +27,10 @@
 
 <p><img align="left"  width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=saimatonni&theme=dark" alt="saimatonni" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimatonni&theme=dark&bg_color=000040" alt="saimatonni" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="50" src="https://github-profile-trophy.vercel.app/?username=saimatonni&theme=dark&bg_color=000040" alt="saimatonni" /></a> </p>
   
 
 
 </ul>
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://ko-fi.com/saimaakter"> <img align="left" width="50" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/saimaakter" /></a></p><br><br>
+<p><a href="https://ko-fi.com/https://ko-fi.com/saimaakter"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/saimaakter" /></a></p><br><br>
