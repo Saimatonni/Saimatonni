@@ -21,11 +21,11 @@
 
 <p><img align="left"  width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimatonni&theme=dark&show_icons=true&locale=en&layout=compact" alt="saimatonni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimatonni&theme=dark" alt="saimatonni" /></p>
+
 
 <p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=saimatonni&theme=dark&show_icons=true&locale=en" alt="saimatonni" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimatonni&theme=dark" alt="saimatonni" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=saimatonni&theme=dark" alt="saimatonni" /></a> </p>
 
