@@ -27,7 +27,8 @@
 
 <p><img align="left"  width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=saimatonni&theme=dark" alt="saimatonni" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimatonni&theme=dark&bg_color=000040" alt="saimatonni" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saimatonni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 
 
