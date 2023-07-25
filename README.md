@@ -29,9 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimatonni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saimatonni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 
 <h3 align="left">Support:</h3>
