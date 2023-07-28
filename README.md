@@ -18,8 +18,8 @@
 
 
 
-<h2 align="center">💻 Tech Stack</h2>
-<p align="center">
+<h2>💻 Tech Stack</h2>
+<p>
   <strong>Languages:</strong><br>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
