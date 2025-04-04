@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Saima Akter</h1>
-<h3 align="center">CSE Undergraduate Student at University of Dhaka || Software Developer || AI Enthusiast</h3>
+<h3 align="center">CSE Graduate from the University of Dhaka || Software Developer || AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimatonni&label=Profile%20views&color=0e75b6&style=flat" alt="saimatonni" /> </p>
 
